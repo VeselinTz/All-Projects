@@ -1,0 +1,6 @@
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\02_Conditional_Statements_And_Loops\10_Triangle_of_Numbers\bin\Debug\10_Triangle_of_Numbers.exe.config
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\02_Conditional_Statements_And_Loops\10_Triangle_of_Numbers\bin\Debug\10_Triangle_of_Numbers.exe
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\02_Conditional_Statements_And_Loops\10_Triangle_of_Numbers\bin\Debug\10_Triangle_of_Numbers.pdb
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\02_Conditional_Statements_And_Loops\10_Triangle_of_Numbers\obj\Debug\10_Triangle_of_Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\02_Conditional_Statements_And_Loops\10_Triangle_of_Numbers\obj\Debug\10_Triangle_of_Numbers.exe
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\02_Conditional_Statements_And_Loops\10_Triangle_of_Numbers\obj\Debug\10_Triangle_of_Numbers.pdb

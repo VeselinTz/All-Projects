@@ -1,0 +1,6 @@
+C:\Users\Kokosharnika\Documents\Visual Studio 2017\Projects\02_Conditional_Statements_And_Loops\04_Hotel\bin\Debug\04_Hotel.exe.config
+C:\Users\Kokosharnika\Documents\Visual Studio 2017\Projects\02_Conditional_Statements_And_Loops\04_Hotel\bin\Debug\04_Hotel.exe
+C:\Users\Kokosharnika\Documents\Visual Studio 2017\Projects\02_Conditional_Statements_And_Loops\04_Hotel\bin\Debug\04_Hotel.pdb
+C:\Users\Kokosharnika\Documents\Visual Studio 2017\Projects\02_Conditional_Statements_And_Loops\04_Hotel\obj\Debug\04_Hotel.csprojResolveAssemblyReference.cache
+C:\Users\Kokosharnika\Documents\Visual Studio 2017\Projects\02_Conditional_Statements_And_Loops\04_Hotel\obj\Debug\04_Hotel.exe
+C:\Users\Kokosharnika\Documents\Visual Studio 2017\Projects\02_Conditional_Statements_And_Loops\04_Hotel\obj\Debug\04_Hotel.pdb

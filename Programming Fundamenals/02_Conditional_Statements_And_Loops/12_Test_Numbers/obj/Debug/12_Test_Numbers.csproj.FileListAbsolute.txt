@@ -1,0 +1,5 @@
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\02_Conditional_Statements_And_Loops\12_Test_Numbers\bin\Debug\12_Test_Numbers.exe.config
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\02_Conditional_Statements_And_Loops\12_Test_Numbers\bin\Debug\12_Test_Numbers.exe
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\02_Conditional_Statements_And_Loops\12_Test_Numbers\bin\Debug\12_Test_Numbers.pdb
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\02_Conditional_Statements_And_Loops\12_Test_Numbers\obj\Debug\12_Test_Numbers.exe
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\02_Conditional_Statements_And_Loops\12_Test_Numbers\obj\Debug\12_Test_Numbers.pdb

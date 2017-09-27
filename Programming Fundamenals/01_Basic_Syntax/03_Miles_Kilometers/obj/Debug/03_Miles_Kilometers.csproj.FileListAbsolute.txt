@@ -1,0 +1,5 @@
+c:\users\kokosharnika\documents\visual studio 2017\Projects\Basic_Syntax\03_Miles_Kilometers\bin\Debug\03_Miles_Kilometers.exe.config
+c:\users\kokosharnika\documents\visual studio 2017\Projects\Basic_Syntax\03_Miles_Kilometers\bin\Debug\03_Miles_Kilometers.exe
+c:\users\kokosharnika\documents\visual studio 2017\Projects\Basic_Syntax\03_Miles_Kilometers\bin\Debug\03_Miles_Kilometers.pdb
+c:\users\kokosharnika\documents\visual studio 2017\Projects\Basic_Syntax\03_Miles_Kilometers\obj\Debug\03_Miles_Kilometers.exe
+c:\users\kokosharnika\documents\visual studio 2017\Projects\Basic_Syntax\03_Miles_Kilometers\obj\Debug\03_Miles_Kilometers.pdb

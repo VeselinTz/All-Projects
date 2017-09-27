@@ -1,0 +1,6 @@
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\02_Conditional_Statements_And_Loops\05_Word_In_Plural\bin\Debug\05_Word_In_Plural.exe.config
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\02_Conditional_Statements_And_Loops\05_Word_In_Plural\bin\Debug\05_Word_In_Plural.exe
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\02_Conditional_Statements_And_Loops\05_Word_In_Plural\bin\Debug\05_Word_In_Plural.pdb
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\02_Conditional_Statements_And_Loops\05_Word_In_Plural\obj\Debug\05_Word_In_Plural.csprojResolveAssemblyReference.cache
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\02_Conditional_Statements_And_Loops\05_Word_In_Plural\obj\Debug\05_Word_In_Plural.exe
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\02_Conditional_Statements_And_Loops\05_Word_In_Plural\obj\Debug\05_Word_In_Plural.pdb

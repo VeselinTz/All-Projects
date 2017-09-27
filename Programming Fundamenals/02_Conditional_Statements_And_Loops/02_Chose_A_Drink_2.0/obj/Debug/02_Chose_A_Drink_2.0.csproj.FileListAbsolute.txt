@@ -1,0 +1,6 @@
+C:\Users\Kokosharnika\Documents\Visual Studio 2017\Projects\02_Conditional_Statements_And_Loops\02_Chose_A_Drink_2.0\bin\Debug\02_Chose_A_Drink_2.0.exe.config
+C:\Users\Kokosharnika\Documents\Visual Studio 2017\Projects\02_Conditional_Statements_And_Loops\02_Chose_A_Drink_2.0\bin\Debug\02_Chose_A_Drink_2.0.exe
+C:\Users\Kokosharnika\Documents\Visual Studio 2017\Projects\02_Conditional_Statements_And_Loops\02_Chose_A_Drink_2.0\bin\Debug\02_Chose_A_Drink_2.0.pdb
+C:\Users\Kokosharnika\Documents\Visual Studio 2017\Projects\02_Conditional_Statements_And_Loops\02_Chose_A_Drink_2.0\obj\Debug\02_Chose_A_Drink_2.0.csprojResolveAssemblyReference.cache
+C:\Users\Kokosharnika\Documents\Visual Studio 2017\Projects\02_Conditional_Statements_And_Loops\02_Chose_A_Drink_2.0\obj\Debug\02_Chose_A_Drink_2.0.exe
+C:\Users\Kokosharnika\Documents\Visual Studio 2017\Projects\02_Conditional_Statements_And_Loops\02_Chose_A_Drink_2.0\obj\Debug\02_Chose_A_Drink_2.0.pdb

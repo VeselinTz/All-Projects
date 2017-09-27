@@ -1,0 +1,5 @@
+c:\users\kokosharnika\documents\visual studio 2017\Projects\Basic_Syntax\02_Rectangle_Area\bin\Debug\02_Rectangle_Area.exe.config
+c:\users\kokosharnika\documents\visual studio 2017\Projects\Basic_Syntax\02_Rectangle_Area\bin\Debug\02_Rectangle_Area.exe
+c:\users\kokosharnika\documents\visual studio 2017\Projects\Basic_Syntax\02_Rectangle_Area\bin\Debug\02_Rectangle_Area.pdb
+c:\users\kokosharnika\documents\visual studio 2017\Projects\Basic_Syntax\02_Rectangle_Area\obj\Debug\02_Rectangle_Area.exe
+c:\users\kokosharnika\documents\visual studio 2017\Projects\Basic_Syntax\02_Rectangle_Area\obj\Debug\02_Rectangle_Area.pdb

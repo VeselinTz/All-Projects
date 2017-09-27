@@ -1,0 +1,6 @@
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\02_Conditional_Statements_And_Loops\07_Cake_Ingredients\bin\Debug\07_Cake_Ingredients.exe.config
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\02_Conditional_Statements_And_Loops\07_Cake_Ingredients\bin\Debug\07_Cake_Ingredients.exe
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\02_Conditional_Statements_And_Loops\07_Cake_Ingredients\bin\Debug\07_Cake_Ingredients.pdb
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\02_Conditional_Statements_And_Loops\07_Cake_Ingredients\obj\Debug\07_Cake_Ingredients.csprojResolveAssemblyReference.cache
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\02_Conditional_Statements_And_Loops\07_Cake_Ingredients\obj\Debug\07_Cake_Ingredients.exe
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\02_Conditional_Statements_And_Loops\07_Cake_Ingredients\obj\Debug\07_Cake_Ingredients.pdb

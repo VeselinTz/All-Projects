@@ -1,0 +1,5 @@
+c:\users\kokosharnika\documents\visual studio 2017\Projects\Basic_Syntax\04_Beverage_Lables\bin\Debug\04_Beverage_Lables.exe.config
+c:\users\kokosharnika\documents\visual studio 2017\Projects\Basic_Syntax\04_Beverage_Lables\bin\Debug\04_Beverage_Lables.exe
+c:\users\kokosharnika\documents\visual studio 2017\Projects\Basic_Syntax\04_Beverage_Lables\bin\Debug\04_Beverage_Lables.pdb
+c:\users\kokosharnika\documents\visual studio 2017\Projects\Basic_Syntax\04_Beverage_Lables\obj\Debug\04_Beverage_Lables.exe
+c:\users\kokosharnika\documents\visual studio 2017\Projects\Basic_Syntax\04_Beverage_Lables\obj\Debug\04_Beverage_Lables.pdb

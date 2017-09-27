@@ -1,0 +1,5 @@
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\02_Conditional_Statements_And_Loops\13_Game_Of_Numbers\bin\Debug\13_Game_Of_Numbers.exe.config
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\02_Conditional_Statements_And_Loops\13_Game_Of_Numbers\bin\Debug\13_Game_Of_Numbers.exe
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\02_Conditional_Statements_And_Loops\13_Game_Of_Numbers\bin\Debug\13_Game_Of_Numbers.pdb
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\02_Conditional_Statements_And_Loops\13_Game_Of_Numbers\obj\Debug\13_Game_Of_Numbers.exe
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\02_Conditional_Statements_And_Loops\13_Game_Of_Numbers\obj\Debug\13_Game_Of_Numbers.pdb
