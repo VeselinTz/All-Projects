@@ -1,0 +1,5 @@
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\03_Data_Types_and_Variables\16_Comparing_Floats\bin\Debug\16_Comparing_Floats.exe.config
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\03_Data_Types_and_Variables\16_Comparing_Floats\bin\Debug\16_Comparing_Floats.exe
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\03_Data_Types_and_Variables\16_Comparing_Floats\bin\Debug\16_Comparing_Floats.pdb
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\03_Data_Types_and_Variables\16_Comparing_Floats\obj\Debug\16_Comparing_Floats.exe
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\03_Data_Types_and_Variables\16_Comparing_Floats\obj\Debug\16_Comparing_Floats.pdb

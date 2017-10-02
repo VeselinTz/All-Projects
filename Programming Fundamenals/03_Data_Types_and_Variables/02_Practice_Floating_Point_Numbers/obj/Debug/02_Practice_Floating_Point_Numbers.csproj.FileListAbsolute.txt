@@ -1,0 +1,5 @@
+c:\users\kokosharnika\documents\visual studio 2017\Projects\03_Data_Types_and_Variables\02_Practice_Floating_Point_Numbers\bin\Debug\02_Practice_Floating_Point_Numbers.exe.config
+c:\users\kokosharnika\documents\visual studio 2017\Projects\03_Data_Types_and_Variables\02_Practice_Floating_Point_Numbers\bin\Debug\02_Practice_Floating_Point_Numbers.exe
+c:\users\kokosharnika\documents\visual studio 2017\Projects\03_Data_Types_and_Variables\02_Practice_Floating_Point_Numbers\bin\Debug\02_Practice_Floating_Point_Numbers.pdb
+c:\users\kokosharnika\documents\visual studio 2017\Projects\03_Data_Types_and_Variables\02_Practice_Floating_Point_Numbers\obj\Debug\02_Practice_Floating_Point_Numbers.exe
+c:\users\kokosharnika\documents\visual studio 2017\Projects\03_Data_Types_and_Variables\02_Practice_Floating_Point_Numbers\obj\Debug\02_Practice_Floating_Point_Numbers.pdb

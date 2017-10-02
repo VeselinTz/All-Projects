@@ -1,0 +1,5 @@
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\03_Data_Types_and_Variables\15_Fast_Prime_Checker\bin\Debug\15_Fast_Prime_Checker.exe.config
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\03_Data_Types_and_Variables\15_Fast_Prime_Checker\bin\Debug\15_Fast_Prime_Checker.exe
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\03_Data_Types_and_Variables\15_Fast_Prime_Checker\bin\Debug\15_Fast_Prime_Checker.pdb
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\03_Data_Types_and_Variables\15_Fast_Prime_Checker\obj\Debug\15_Fast_Prime_Checker.exe
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\03_Data_Types_and_Variables\15_Fast_Prime_Checker\obj\Debug\15_Fast_Prime_Checker.pdb

@@ -1,0 +1,6 @@
+c:\users\kokosharnika\documents\visual studio 2017\Projects\03_Data_Types_and_Variables\05_Boolean Variable\bin\Debug\05_Boolean Variable.exe.config
+c:\users\kokosharnika\documents\visual studio 2017\Projects\03_Data_Types_and_Variables\05_Boolean Variable\bin\Debug\05_Boolean Variable.exe
+c:\users\kokosharnika\documents\visual studio 2017\Projects\03_Data_Types_and_Variables\05_Boolean Variable\bin\Debug\05_Boolean Variable.pdb
+c:\users\kokosharnika\documents\visual studio 2017\Projects\03_Data_Types_and_Variables\05_Boolean Variable\obj\Debug\05_Boolean Variable.csprojResolveAssemblyReference.cache
+c:\users\kokosharnika\documents\visual studio 2017\Projects\03_Data_Types_and_Variables\05_Boolean Variable\obj\Debug\05_Boolean Variable.exe
+c:\users\kokosharnika\documents\visual studio 2017\Projects\03_Data_Types_and_Variables\05_Boolean Variable\obj\Debug\05_Boolean Variable.pdb

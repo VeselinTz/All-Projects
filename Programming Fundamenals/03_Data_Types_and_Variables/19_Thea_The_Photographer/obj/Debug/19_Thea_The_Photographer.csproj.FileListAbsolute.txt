@@ -1,0 +1,6 @@
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\03_Data_Types_and_Variables\19_Thea_The_Photographer\bin\Debug\19_Thea_The_Photographer.exe.config
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\03_Data_Types_and_Variables\19_Thea_The_Photographer\bin\Debug\19_Thea_The_Photographer.exe
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\03_Data_Types_and_Variables\19_Thea_The_Photographer\bin\Debug\19_Thea_The_Photographer.pdb
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\03_Data_Types_and_Variables\19_Thea_The_Photographer\obj\Debug\19_Thea_The_Photographer.csprojResolveAssemblyReference.cache
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\03_Data_Types_and_Variables\19_Thea_The_Photographer\obj\Debug\19_Thea_The_Photographer.exe
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\03_Data_Types_and_Variables\19_Thea_The_Photographer\obj\Debug\19_Thea_The_Photographer.pdb

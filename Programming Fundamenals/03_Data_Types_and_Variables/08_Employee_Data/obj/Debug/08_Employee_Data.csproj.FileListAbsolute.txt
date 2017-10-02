@@ -1,0 +1,5 @@
+c:\users\kokosharnika\documents\visual studio 2017\Projects\03_Data_Types_and_Variables\08_Employee_Data\bin\Debug\08_Employee_Data.exe.config
+c:\users\kokosharnika\documents\visual studio 2017\Projects\03_Data_Types_and_Variables\08_Employee_Data\bin\Debug\08_Employee_Data.exe
+c:\users\kokosharnika\documents\visual studio 2017\Projects\03_Data_Types_and_Variables\08_Employee_Data\bin\Debug\08_Employee_Data.pdb
+c:\users\kokosharnika\documents\visual studio 2017\Projects\03_Data_Types_and_Variables\08_Employee_Data\obj\Debug\08_Employee_Data.exe
+c:\users\kokosharnika\documents\visual studio 2017\Projects\03_Data_Types_and_Variables\08_Employee_Data\obj\Debug\08_Employee_Data.pdb

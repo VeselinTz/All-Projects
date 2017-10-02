@@ -1,0 +1,6 @@
+c:\users\kokosharnika\documents\visual studio 2017\Projects\03_Data_Types_and_Variables\10_Centuries_to_Nanoseconds\bin\Debug\10_Centuries_to_Nanoseconds.exe.config
+c:\users\kokosharnika\documents\visual studio 2017\Projects\03_Data_Types_and_Variables\10_Centuries_to_Nanoseconds\bin\Debug\10_Centuries_to_Nanoseconds.exe
+c:\users\kokosharnika\documents\visual studio 2017\Projects\03_Data_Types_and_Variables\10_Centuries_to_Nanoseconds\bin\Debug\10_Centuries_to_Nanoseconds.pdb
+c:\users\kokosharnika\documents\visual studio 2017\Projects\03_Data_Types_and_Variables\10_Centuries_to_Nanoseconds\obj\Debug\10_Centuries_to_Nanoseconds.exe
+c:\users\kokosharnika\documents\visual studio 2017\Projects\03_Data_Types_and_Variables\10_Centuries_to_Nanoseconds\obj\Debug\10_Centuries_to_Nanoseconds.pdb
+c:\users\kokosharnika\documents\visual studio 2017\Projects\03_Data_Types_and_Variables\10_Centuries_to_Nanoseconds\obj\Debug\10_Centuries_to_Nanoseconds.csprojResolveAssemblyReference.cache

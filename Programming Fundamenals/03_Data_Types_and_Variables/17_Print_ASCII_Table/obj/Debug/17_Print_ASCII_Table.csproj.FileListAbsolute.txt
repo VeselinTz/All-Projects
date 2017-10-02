@@ -1,0 +1,5 @@
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\03_Data_Types_and_Variables\17_Print_ASCII_Table\bin\Debug\17_Print_ASCII_Table.exe.config
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\03_Data_Types_and_Variables\17_Print_ASCII_Table\bin\Debug\17_Print_ASCII_Table.exe
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\03_Data_Types_and_Variables\17_Print_ASCII_Table\bin\Debug\17_Print_ASCII_Table.pdb
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\03_Data_Types_and_Variables\17_Print_ASCII_Table\obj\Debug\17_Print_ASCII_Table.exe
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\03_Data_Types_and_Variables\17_Print_ASCII_Table\obj\Debug\17_Print_ASCII_Table.pdb

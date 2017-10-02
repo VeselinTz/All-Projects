@@ -1,0 +1,6 @@
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\03_Data_Types_and_Variables\18_Different_Integers_Size\bin\Debug\18_Different_Integers_Size.exe.config
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\03_Data_Types_and_Variables\18_Different_Integers_Size\bin\Debug\18_Different_Integers_Size.exe
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\03_Data_Types_and_Variables\18_Different_Integers_Size\bin\Debug\18_Different_Integers_Size.pdb
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\03_Data_Types_and_Variables\18_Different_Integers_Size\obj\Debug\18_Different_Integers_Size.csprojResolveAssemblyReference.cache
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\03_Data_Types_and_Variables\18_Different_Integers_Size\obj\Debug\18_Different_Integers_Size.exe
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\03_Data_Types_and_Variables\18_Different_Integers_Size\obj\Debug\18_Different_Integers_Size.pdb

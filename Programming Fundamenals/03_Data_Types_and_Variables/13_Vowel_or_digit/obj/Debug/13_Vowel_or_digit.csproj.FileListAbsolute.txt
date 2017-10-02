@@ -1,0 +1,5 @@
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\03_Data_Types_and_Variables\13_Vowel_or_digit\bin\Debug\13_Vowel_or_digit.exe.config
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\03_Data_Types_and_Variables\13_Vowel_or_digit\bin\Debug\13_Vowel_or_digit.exe
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\03_Data_Types_and_Variables\13_Vowel_or_digit\bin\Debug\13_Vowel_or_digit.pdb
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\03_Data_Types_and_Variables\13_Vowel_or_digit\obj\Debug\13_Vowel_or_digit.exe
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\03_Data_Types_and_Variables\13_Vowel_or_digit\obj\Debug\13_Vowel_or_digit.pdb

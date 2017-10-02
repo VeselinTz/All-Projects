@@ -1,0 +1,5 @@
+c:\users\kokosharnika\documents\visual studio 2017\Projects\03_Data_Types_and_Variables\01_Practice_Integer_Numbers\bin\Debug\01_Practice_Integer_Numbers.exe.config
+c:\users\kokosharnika\documents\visual studio 2017\Projects\03_Data_Types_and_Variables\01_Practice_Integer_Numbers\bin\Debug\01_Practice_Integer_Numbers.exe
+c:\users\kokosharnika\documents\visual studio 2017\Projects\03_Data_Types_and_Variables\01_Practice_Integer_Numbers\bin\Debug\01_Practice_Integer_Numbers.pdb
+c:\users\kokosharnika\documents\visual studio 2017\Projects\03_Data_Types_and_Variables\01_Practice_Integer_Numbers\obj\Debug\01_Practice_Integer_Numbers.exe
+c:\users\kokosharnika\documents\visual studio 2017\Projects\03_Data_Types_and_Variables\01_Practice_Integer_Numbers\obj\Debug\01_Practice_Integer_Numbers.pdb

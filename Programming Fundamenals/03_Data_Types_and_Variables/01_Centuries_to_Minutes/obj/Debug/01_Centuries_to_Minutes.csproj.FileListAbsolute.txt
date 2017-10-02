@@ -1,0 +1,6 @@
+c:\users\kokosharnika\documents\visual studio 2017\Projects\03_Data_Types_and_Variables\01_Centuries_to_Minutes\obj\Debug\01_Centuries_to_Minutes.csprojResolveAssemblyReference.cache
+c:\users\kokosharnika\documents\visual studio 2017\Projects\03_Data_Types_and_Variables\01_Centuries_to_Minutes\bin\Debug\01_Centuries_to_Minutes.exe.config
+c:\users\kokosharnika\documents\visual studio 2017\Projects\03_Data_Types_and_Variables\01_Centuries_to_Minutes\bin\Debug\01_Centuries_to_Minutes.exe
+c:\users\kokosharnika\documents\visual studio 2017\Projects\03_Data_Types_and_Variables\01_Centuries_to_Minutes\bin\Debug\01_Centuries_to_Minutes.pdb
+c:\users\kokosharnika\documents\visual studio 2017\Projects\03_Data_Types_and_Variables\01_Centuries_to_Minutes\obj\Debug\01_Centuries_to_Minutes.exe
+c:\users\kokosharnika\documents\visual studio 2017\Projects\03_Data_Types_and_Variables\01_Centuries_to_Minutes\obj\Debug\01_Centuries_to_Minutes.pdb
