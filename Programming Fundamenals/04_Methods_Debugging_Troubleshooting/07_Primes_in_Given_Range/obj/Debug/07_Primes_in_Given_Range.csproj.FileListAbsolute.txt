@@ -1,0 +1,6 @@
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\04_Methods_Debugging_Troubleshooting\07_Primes_in_Given_Range\bin\Debug\07_Primes_in_Given_Range.exe.config
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\04_Methods_Debugging_Troubleshooting\07_Primes_in_Given_Range\bin\Debug\07_Primes_in_Given_Range.exe
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\04_Methods_Debugging_Troubleshooting\07_Primes_in_Given_Range\bin\Debug\07_Primes_in_Given_Range.pdb
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\04_Methods_Debugging_Troubleshooting\07_Primes_in_Given_Range\obj\Debug\07_Primes_in_Given_Range.csprojResolveAssemblyReference.cache
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\04_Methods_Debugging_Troubleshooting\07_Primes_in_Given_Range\obj\Debug\07_Primes_in_Given_Range.exe
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\04_Methods_Debugging_Troubleshooting\07_Primes_in_Given_Range\obj\Debug\07_Primes_in_Given_Range.pdb

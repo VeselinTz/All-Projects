@@ -1,0 +1,6 @@
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\04_Methods_Debugging_Troubleshooting\13_Factorial\bin\Debug\13_Factorial.exe.config
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\04_Methods_Debugging_Troubleshooting\13_Factorial\bin\Debug\13_Factorial.exe
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\04_Methods_Debugging_Troubleshooting\13_Factorial\bin\Debug\13_Factorial.pdb
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\04_Methods_Debugging_Troubleshooting\13_Factorial\obj\Debug\13_Factorial.csprojResolveAssemblyReference.cache
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\04_Methods_Debugging_Troubleshooting\13_Factorial\obj\Debug\13_Factorial.exe
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\04_Methods_Debugging_Troubleshooting\13_Factorial\obj\Debug\13_Factorial.pdb

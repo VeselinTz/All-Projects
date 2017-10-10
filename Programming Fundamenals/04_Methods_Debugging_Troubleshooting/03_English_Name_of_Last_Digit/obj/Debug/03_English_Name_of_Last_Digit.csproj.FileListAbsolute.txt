@@ -1,0 +1,6 @@
+c:\users\kokosharnika\documents\visual studio 2017\Projects\04_Methods_Debugging_Troubleshooting\03_English_Name_of_Last_Digit\bin\Debug\03_English_Name_of_Last_Digit.exe.config
+c:\users\kokosharnika\documents\visual studio 2017\Projects\04_Methods_Debugging_Troubleshooting\03_English_Name_of_Last_Digit\bin\Debug\03_English_Name_of_Last_Digit.exe
+c:\users\kokosharnika\documents\visual studio 2017\Projects\04_Methods_Debugging_Troubleshooting\03_English_Name_of_Last_Digit\bin\Debug\03_English_Name_of_Last_Digit.pdb
+c:\users\kokosharnika\documents\visual studio 2017\Projects\04_Methods_Debugging_Troubleshooting\03_English_Name_of_Last_Digit\obj\Debug\03_English_Name_of_Last_Digit.exe
+c:\users\kokosharnika\documents\visual studio 2017\Projects\04_Methods_Debugging_Troubleshooting\03_English_Name_of_Last_Digit\obj\Debug\03_English_Name_of_Last_Digit.pdb
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\04_Methods_Debugging_Troubleshooting\03_English_Name_of_Last_Digit\obj\Debug\03_English_Name_of_Last_Digit.csprojResolveAssemblyReference.cache

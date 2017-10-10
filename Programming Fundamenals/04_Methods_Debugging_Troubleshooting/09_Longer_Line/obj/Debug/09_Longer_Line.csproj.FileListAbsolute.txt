@@ -1,0 +1,6 @@
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\04_Methods_Debugging_Troubleshooting\09_Longer_Line\bin\Debug\09_Longer_Line.exe.config
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\04_Methods_Debugging_Troubleshooting\09_Longer_Line\bin\Debug\09_Longer_Line.exe
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\04_Methods_Debugging_Troubleshooting\09_Longer_Line\bin\Debug\09_Longer_Line.pdb
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\04_Methods_Debugging_Troubleshooting\09_Longer_Line\obj\Debug\09_Longer_Line.csprojResolveAssemblyReference.cache
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\04_Methods_Debugging_Troubleshooting\09_Longer_Line\obj\Debug\09_Longer_Line.exe
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\04_Methods_Debugging_Troubleshooting\09_Longer_Line\obj\Debug\09_Longer_Line.pdb

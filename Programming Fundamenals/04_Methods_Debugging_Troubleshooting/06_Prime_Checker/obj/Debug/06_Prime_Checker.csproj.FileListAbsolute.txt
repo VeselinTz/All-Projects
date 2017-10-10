@@ -1,0 +1,5 @@
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\04_Methods_Debugging_Troubleshooting\06_Prime_Checker\bin\Debug\06_Prime_Checker.exe.config
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\04_Methods_Debugging_Troubleshooting\06_Prime_Checker\bin\Debug\06_Prime_Checker.exe
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\04_Methods_Debugging_Troubleshooting\06_Prime_Checker\bin\Debug\06_Prime_Checker.pdb
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\04_Methods_Debugging_Troubleshooting\06_Prime_Checker\obj\Debug\06_Prime_Checker.exe
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\04_Methods_Debugging_Troubleshooting\06_Prime_Checker\obj\Debug\06_Prime_Checker.pdb

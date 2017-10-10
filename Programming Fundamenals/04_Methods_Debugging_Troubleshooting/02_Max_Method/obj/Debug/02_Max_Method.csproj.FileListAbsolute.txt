@@ -1,0 +1,5 @@
+c:\users\kokosharnika\documents\visual studio 2017\Projects\04_Methods_Debugging_Troubleshooting\02_Max_Method\bin\Debug\02_Max_Method.exe.config
+c:\users\kokosharnika\documents\visual studio 2017\Projects\04_Methods_Debugging_Troubleshooting\02_Max_Method\bin\Debug\02_Max_Method.exe
+c:\users\kokosharnika\documents\visual studio 2017\Projects\04_Methods_Debugging_Troubleshooting\02_Max_Method\bin\Debug\02_Max_Method.pdb
+c:\users\kokosharnika\documents\visual studio 2017\Projects\04_Methods_Debugging_Troubleshooting\02_Max_Method\obj\Debug\02_Max_Method.exe
+c:\users\kokosharnika\documents\visual studio 2017\Projects\04_Methods_Debugging_Troubleshooting\02_Max_Method\obj\Debug\02_Max_Method.pdb
