@@ -1,0 +1,6 @@
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\05_Arrays_Exercises\12_Equal_Sums\bin\Debug\12_Equal_Sums.exe.config
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\05_Arrays_Exercises\12_Equal_Sums\bin\Debug\12_Equal_Sums.exe
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\05_Arrays_Exercises\12_Equal_Sums\bin\Debug\12_Equal_Sums.pdb
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\05_Arrays_Exercises\12_Equal_Sums\obj\Debug\12_Equal_Sums.csprojResolveAssemblyReference.cache
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\05_Arrays_Exercises\12_Equal_Sums\obj\Debug\12_Equal_Sums.exe
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\05_Arrays_Exercises\12_Equal_Sums\obj\Debug\12_Equal_Sums.pdb

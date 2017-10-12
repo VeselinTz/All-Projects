@@ -1,0 +1,6 @@
+c:\users\kokosharnika\documents\visual studio 2017\Projects\05_Arrays_Exercises\05_Arrays_Exercises\bin\Debug\05_Arrays_Exercises.exe.config
+c:\users\kokosharnika\documents\visual studio 2017\Projects\05_Arrays_Exercises\05_Arrays_Exercises\bin\Debug\05_Arrays_Exercises.exe
+c:\users\kokosharnika\documents\visual studio 2017\Projects\05_Arrays_Exercises\05_Arrays_Exercises\bin\Debug\05_Arrays_Exercises.pdb
+c:\users\kokosharnika\documents\visual studio 2017\Projects\05_Arrays_Exercises\05_Arrays_Exercises\obj\Debug\05_Arrays_Exercises.csprojResolveAssemblyReference.cache
+c:\users\kokosharnika\documents\visual studio 2017\Projects\05_Arrays_Exercises\05_Arrays_Exercises\obj\Debug\05_Arrays_Exercises.exe
+c:\users\kokosharnika\documents\visual studio 2017\Projects\05_Arrays_Exercises\05_Arrays_Exercises\obj\Debug\05_Arrays_Exercises.pdb

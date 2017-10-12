@@ -1,0 +1,5 @@
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\05_Arrays_Exercises\06_Max_Sequence_of_Equal_Elements\bin\Debug\06_Max_Sequence_of_Equal_Elements.exe.config
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\05_Arrays_Exercises\06_Max_Sequence_of_Equal_Elements\bin\Debug\06_Max_Sequence_of_Equal_Elements.exe
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\05_Arrays_Exercises\06_Max_Sequence_of_Equal_Elements\bin\Debug\06_Max_Sequence_of_Equal_Elements.pdb
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\05_Arrays_Exercises\06_Max_Sequence_of_Equal_Elements\obj\Debug\06_Max_Sequence_of_Equal_Elements.exe
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\05_Arrays_Exercises\06_Max_Sequence_of_Equal_Elements\obj\Debug\06_Max_Sequence_of_Equal_Elements.pdb

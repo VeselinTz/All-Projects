@@ -1,0 +1,6 @@
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\05_Arrays_Exercises\04_Sieve_of_Eratosthenes\bin\Debug\04_Sieve_of_Eratosthenes.exe.config
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\05_Arrays_Exercises\04_Sieve_of_Eratosthenes\bin\Debug\04_Sieve_of_Eratosthenes.exe
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\05_Arrays_Exercises\04_Sieve_of_Eratosthenes\bin\Debug\04_Sieve_of_Eratosthenes.pdb
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\05_Arrays_Exercises\04_Sieve_of_Eratosthenes\obj\Debug\04_Sieve_of_Eratosthenes_NOTDONE.csprojResolveAssemblyReference.cache
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\05_Arrays_Exercises\04_Sieve_of_Eratosthenes\obj\Debug\04_Sieve_of_Eratosthenes.exe
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\05_Arrays_Exercises\04_Sieve_of_Eratosthenes\obj\Debug\04_Sieve_of_Eratosthenes.pdb

@@ -1,0 +1,6 @@
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\05_Arrays_Exercises\05_Arrays_Exercises\bin\Debug\05_Arrays_Exercises.exe.config
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\05_Arrays_Exercises\05_Arrays_Exercises\bin\Debug\05_Arrays_Exercises.exe
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\05_Arrays_Exercises\05_Arrays_Exercises\bin\Debug\05_Arrays_Exercises.pdb
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\05_Arrays_Exercises\05_Arrays_Exercises\obj\Debug\01_Largest_Common_End.csprojResolveAssemblyReference.cache
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\05_Arrays_Exercises\05_Arrays_Exercises\obj\Debug\05_Arrays_Exercises.exe
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\05_Arrays_Exercises\05_Arrays_Exercises\obj\Debug\05_Arrays_Exercises.pdb

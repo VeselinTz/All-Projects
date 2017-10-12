@@ -1,0 +1,5 @@
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\05_Arrays_Exercises\10_Pairs_by_Difference\bin\Debug\10_Pairs_by_Difference.exe.config
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\05_Arrays_Exercises\10_Pairs_by_Difference\bin\Debug\10_Pairs_by_Difference.exe
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\05_Arrays_Exercises\10_Pairs_by_Difference\bin\Debug\10_Pairs_by_Difference.pdb
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\05_Arrays_Exercises\10_Pairs_by_Difference\obj\Debug\10_Pairs_by_Difference.exe
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\05_Arrays_Exercises\10_Pairs_by_Difference\obj\Debug\10_Pairs_by_Difference.pdb

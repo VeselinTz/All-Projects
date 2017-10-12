@@ -1,0 +1,6 @@
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\05_Arrays_Exercises\08_Most_Frequent_Number\bin\Debug\08_Most_Frequent_Number.exe.config
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\05_Arrays_Exercises\08_Most_Frequent_Number\bin\Debug\08_Most_Frequent_Number.exe
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\05_Arrays_Exercises\08_Most_Frequent_Number\bin\Debug\08_Most_Frequent_Number.pdb
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\05_Arrays_Exercises\08_Most_Frequent_Number\obj\Debug\08_Most_Frequent_Number.exe
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\05_Arrays_Exercises\08_Most_Frequent_Number\obj\Debug\08_Most_Frequent_Number.pdb
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\05_Arrays_Exercises\08_Most_Frequent_Number\obj\Debug\08_Max_Sequence_of_Rising_Elements.csprojResolveAssemblyReference.cache

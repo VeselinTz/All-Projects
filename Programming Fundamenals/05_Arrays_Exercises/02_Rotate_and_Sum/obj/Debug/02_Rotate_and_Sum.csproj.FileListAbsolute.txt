@@ -1,0 +1,6 @@
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\05_Arrays_Exercises\02_Rotate_and_Sum\bin\Debug\02_Rotate_and_Sum.exe.config
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\05_Arrays_Exercises\02_Rotate_and_Sum\bin\Debug\02_Rotate_and_Sum.exe
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\05_Arrays_Exercises\02_Rotate_and_Sum\bin\Debug\02_Rotate_and_Sum.pdb
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\05_Arrays_Exercises\02_Rotate_and_Sum\obj\Debug\02_Rotate_and_Sum.csprojResolveAssemblyReference.cache
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\05_Arrays_Exercises\02_Rotate_and_Sum\obj\Debug\02_Rotate_and_Sum.exe
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\05_Arrays_Exercises\02_Rotate_and_Sum\obj\Debug\02_Rotate_and_Sum.pdb
