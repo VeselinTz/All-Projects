@@ -1,0 +1,6 @@
+c:\Users\kokosharnika\documents\visual studio 2017\Projects\09_Files\05_A_Miner_Task\bin\Debug\05_A_Miner_Task.exe.config
+c:\Users\kokosharnika\documents\visual studio 2017\Projects\09_Files\05_A_Miner_Task\bin\Debug\05_A_Miner_Task.exe
+c:\Users\kokosharnika\documents\visual studio 2017\Projects\09_Files\05_A_Miner_Task\bin\Debug\05_A_Miner_Task.pdb
+c:\Users\kokosharnika\documents\visual studio 2017\Projects\09_Files\05_A_Miner_Task\obj\Debug\05_A_Miner_Task.exe
+c:\Users\kokosharnika\documents\visual studio 2017\Projects\09_Files\05_A_Miner_Task\obj\Debug\05_A_Miner_Task.pdb
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\09_Files\05_A_Miner_Task\obj\Debug\05_A_Miner_Task.csprojResolveAssemblyReference.cache

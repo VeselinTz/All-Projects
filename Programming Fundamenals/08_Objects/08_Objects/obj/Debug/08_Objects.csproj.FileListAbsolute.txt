@@ -1,0 +1,6 @@
+c:\users\kokosharnika\documents\visual studio 2017\Projects\08_Objects\08_Objects\bin\Debug\08_Objects.exe.config
+c:\users\kokosharnika\documents\visual studio 2017\Projects\08_Objects\08_Objects\bin\Debug\08_Objects.exe
+c:\users\kokosharnika\documents\visual studio 2017\Projects\08_Objects\08_Objects\bin\Debug\08_Objects.pdb
+c:\users\kokosharnika\documents\visual studio 2017\Projects\08_Objects\08_Objects\obj\Debug\08_Objects.csprojResolveAssemblyReference.cache
+c:\users\kokosharnika\documents\visual studio 2017\Projects\08_Objects\08_Objects\obj\Debug\08_Objects.exe
+c:\users\kokosharnika\documents\visual studio 2017\Projects\08_Objects\08_Objects\obj\Debug\08_Objects.pdb

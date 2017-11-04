@@ -1,0 +1,6 @@
+c:\users\kokosharnika\documents\visual studio 2017\Projects\10_Sino_the_walker\03_Races\bin\Debug\03_Races.exe.config
+c:\users\kokosharnika\documents\visual studio 2017\Projects\10_Sino_the_walker\03_Races\bin\Debug\03_Races.exe
+c:\users\kokosharnika\documents\visual studio 2017\Projects\10_Sino_the_walker\03_Races\bin\Debug\03_Races.pdb
+c:\users\kokosharnika\documents\visual studio 2017\Projects\10_Sino_the_walker\03_Races\obj\Debug\03_Races.exe
+c:\users\kokosharnika\documents\visual studio 2017\Projects\10_Sino_the_walker\03_Races\obj\Debug\03_Races.pdb
+c:\users\kokosharnika\documents\visual studio 2017\Projects\10_Sino_the_walker\03_Races\obj\Debug\03_Races.csprojResolveAssemblyReference.cache

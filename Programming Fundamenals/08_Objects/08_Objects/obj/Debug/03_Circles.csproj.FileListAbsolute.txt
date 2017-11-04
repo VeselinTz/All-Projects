@@ -1,0 +1,6 @@
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\08_Objects\08_Objects\bin\Debug\08_Objects.exe.config
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\08_Objects\08_Objects\bin\Debug\08_Objects.exe
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\08_Objects\08_Objects\bin\Debug\08_Objects.pdb
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\08_Objects\08_Objects\obj\Debug\03_Circles.csprojResolveAssemblyReference.cache
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\08_Objects\08_Objects\obj\Debug\08_Objects.exe
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\08_Objects\08_Objects\obj\Debug\08_Objects.pdb

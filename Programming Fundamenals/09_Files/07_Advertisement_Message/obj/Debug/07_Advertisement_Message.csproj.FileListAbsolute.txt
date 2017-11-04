@@ -1,0 +1,5 @@
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\09_Files\07_Advertisement_Message\bin\Debug\07_Advertisement_Message.exe.config
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\09_Files\07_Advertisement_Message\bin\Debug\07_Advertisement_Message.exe
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\09_Files\07_Advertisement_Message\bin\Debug\07_Advertisement_Message.pdb
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\09_Files\07_Advertisement_Message\obj\Debug\07_Advertisement_Message.exe
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\09_Files\07_Advertisement_Message\obj\Debug\07_Advertisement_Message.pdb

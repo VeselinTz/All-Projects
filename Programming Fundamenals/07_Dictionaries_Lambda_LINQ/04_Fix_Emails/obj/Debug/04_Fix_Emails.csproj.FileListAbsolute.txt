@@ -1,0 +1,5 @@
+c:\users\kokosharnika\documents\visual studio 2017\Projects\07_Dictionaries_Lambda_LINQ\04_Fix_Emails\bin\Debug\04_Fix_Emails.exe.config
+c:\users\kokosharnika\documents\visual studio 2017\Projects\07_Dictionaries_Lambda_LINQ\04_Fix_Emails\bin\Debug\04_Fix_Emails.exe
+c:\users\kokosharnika\documents\visual studio 2017\Projects\07_Dictionaries_Lambda_LINQ\04_Fix_Emails\bin\Debug\04_Fix_Emails.pdb
+c:\users\kokosharnika\documents\visual studio 2017\Projects\07_Dictionaries_Lambda_LINQ\04_Fix_Emails\obj\Debug\04_Fix_Emails.exe
+c:\users\kokosharnika\documents\visual studio 2017\Projects\07_Dictionaries_Lambda_LINQ\04_Fix_Emails\obj\Debug\04_Fix_Emails.pdb

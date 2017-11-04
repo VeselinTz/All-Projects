@@ -1,0 +1,6 @@
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\09_Files\09_Book_Library\bin\Debug\09_Book_Library.exe.config
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\09_Files\09_Book_Library\bin\Debug\09_Book_Library.exe
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\09_Files\09_Book_Library\bin\Debug\09_Book_Library.pdb
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\09_Files\09_Book_Library\obj\Debug\09_Book_Library.csprojResolveAssemblyReference.cache
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\09_Files\09_Book_Library\obj\Debug\09_Book_Library.exe
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\09_Files\09_Book_Library\obj\Debug\09_Book_Library.pdb

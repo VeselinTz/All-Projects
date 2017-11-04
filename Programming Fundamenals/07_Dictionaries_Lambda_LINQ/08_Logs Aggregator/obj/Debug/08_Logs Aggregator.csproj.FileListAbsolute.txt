@@ -1,0 +1,1 @@
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\07_Dictionaries_Lambda_LINQ\08_Logs Aggregator\obj\Debug\08_Logs Aggregator.csprojResolveAssemblyReference.cache

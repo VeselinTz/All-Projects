@@ -1,0 +1,6 @@
+C:\Users\Kokosharnika\Documents\Visual Studio 2017\Projects\06_Lists\03_Search_For_Number\bin\Debug\03_Search_For_Number.exe.config
+C:\Users\Kokosharnika\Documents\Visual Studio 2017\Projects\06_Lists\03_Search_For_Number\bin\Debug\03_Search_For_Number.exe
+C:\Users\Kokosharnika\Documents\Visual Studio 2017\Projects\06_Lists\03_Search_For_Number\bin\Debug\03_Search_For_Number.pdb
+C:\Users\Kokosharnika\Documents\Visual Studio 2017\Projects\06_Lists\03_Search_For_Number\obj\Debug\03_Search_For_Number.csprojResolveAssemblyReference.cache
+C:\Users\Kokosharnika\Documents\Visual Studio 2017\Projects\06_Lists\03_Search_For_Number\obj\Debug\03_Search_For_Number.exe
+C:\Users\Kokosharnika\Documents\Visual Studio 2017\Projects\06_Lists\03_Search_For_Number\obj\Debug\03_Search_For_Number.pdb

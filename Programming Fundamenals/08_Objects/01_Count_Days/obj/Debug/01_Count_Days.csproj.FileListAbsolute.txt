@@ -1,0 +1,6 @@
+c:\users\kokosharnika\documents\visual studio 2017\Projects\08_Objects\01_Count_Days\bin\Debug\01_Count_Days.exe.config
+c:\users\kokosharnika\documents\visual studio 2017\Projects\08_Objects\01_Count_Days\bin\Debug\01_Count_Days.exe
+c:\users\kokosharnika\documents\visual studio 2017\Projects\08_Objects\01_Count_Days\bin\Debug\01_Count_Days.pdb
+c:\users\kokosharnika\documents\visual studio 2017\Projects\08_Objects\01_Count_Days\obj\Debug\01_Count_Days.csprojResolveAssemblyReference.cache
+c:\users\kokosharnika\documents\visual studio 2017\Projects\08_Objects\01_Count_Days\obj\Debug\01_Count_Days.exe
+c:\users\kokosharnika\documents\visual studio 2017\Projects\08_Objects\01_Count_Days\obj\Debug\01_Count_Days.pdb

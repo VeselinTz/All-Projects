@@ -1,0 +1,5 @@
+c:\Users\kokosharnika\documents\visual studio 2017\Projects\09_Files\02_Index_of_letters\bin\Debug\02_Index_of_letters.exe.config
+c:\Users\kokosharnika\documents\visual studio 2017\Projects\09_Files\02_Index_of_letters\bin\Debug\02_Index_of_letters.exe
+c:\Users\kokosharnika\documents\visual studio 2017\Projects\09_Files\02_Index_of_letters\bin\Debug\02_Index_of_letters.pdb
+c:\Users\kokosharnika\documents\visual studio 2017\Projects\09_Files\02_Index_of_letters\obj\Debug\02_Index_of_letters.exe
+c:\Users\kokosharnika\documents\visual studio 2017\Projects\09_Files\02_Index_of_letters\obj\Debug\02_Index_of_letters.pdb

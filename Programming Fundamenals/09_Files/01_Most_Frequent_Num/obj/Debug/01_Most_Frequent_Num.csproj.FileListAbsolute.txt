@@ -1,0 +1,5 @@
+c:\Users\kokosharnika\documents\visual studio 2017\Projects\09_Files\01_Most_Frequent_Num\bin\Debug\01_Most_Frequent_Num.exe.config
+c:\Users\kokosharnika\documents\visual studio 2017\Projects\09_Files\01_Most_Frequent_Num\bin\Debug\01_Most_Frequent_Num.exe
+c:\Users\kokosharnika\documents\visual studio 2017\Projects\09_Files\01_Most_Frequent_Num\bin\Debug\01_Most_Frequent_Num.pdb
+c:\Users\kokosharnika\documents\visual studio 2017\Projects\09_Files\01_Most_Frequent_Num\obj\Debug\01_Most_Frequent_Num.exe
+c:\Users\kokosharnika\documents\visual studio 2017\Projects\09_Files\01_Most_Frequent_Num\obj\Debug\01_Most_Frequent_Num.pdb

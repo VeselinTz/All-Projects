@@ -1,0 +1,6 @@
+C:\Users\Kokosharnika\Documents\Visual Studio 2017\Projects\06_Lists\02_Change_List\bin\Debug\02_Change_List.exe.config
+C:\Users\Kokosharnika\Documents\Visual Studio 2017\Projects\06_Lists\02_Change_List\bin\Debug\02_Change_List.exe
+C:\Users\Kokosharnika\Documents\Visual Studio 2017\Projects\06_Lists\02_Change_List\bin\Debug\02_Change_List.pdb
+C:\Users\Kokosharnika\Documents\Visual Studio 2017\Projects\06_Lists\02_Change_List\obj\Debug\02_Change_List.csprojResolveAssemblyReference.cache
+C:\Users\Kokosharnika\Documents\Visual Studio 2017\Projects\06_Lists\02_Change_List\obj\Debug\02_Change_List.exe
+C:\Users\Kokosharnika\Documents\Visual Studio 2017\Projects\06_Lists\02_Change_List\obj\Debug\02_Change_List.pdb

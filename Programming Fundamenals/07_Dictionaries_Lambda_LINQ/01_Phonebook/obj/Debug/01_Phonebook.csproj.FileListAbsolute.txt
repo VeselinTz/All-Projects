@@ -1,0 +1,6 @@
+c:\users\kokosharnika\documents\visual studio 2017\Projects\07_Dictionaries_Lambda_LINQ\01_Phonebook\obj\Debug\01_Phonebook.csprojResolveAssemblyReference.cache
+c:\users\kokosharnika\documents\visual studio 2017\Projects\07_Dictionaries_Lambda_LINQ\01_Phonebook\bin\Debug\01_Phonebook.exe.config
+c:\users\kokosharnika\documents\visual studio 2017\Projects\07_Dictionaries_Lambda_LINQ\01_Phonebook\bin\Debug\01_Phonebook.exe
+c:\users\kokosharnika\documents\visual studio 2017\Projects\07_Dictionaries_Lambda_LINQ\01_Phonebook\bin\Debug\01_Phonebook.pdb
+c:\users\kokosharnika\documents\visual studio 2017\Projects\07_Dictionaries_Lambda_LINQ\01_Phonebook\obj\Debug\01_Phonebook.exe
+c:\users\kokosharnika\documents\visual studio 2017\Projects\07_Dictionaries_Lambda_LINQ\01_Phonebook\obj\Debug\01_Phonebook.pdb

@@ -1,0 +1,6 @@
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\08_Objects\04_Students_Grades\bin\Debug\04_Students_Grades.exe.config
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\08_Objects\04_Students_Grades\bin\Debug\04_Students_Grades.exe
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\08_Objects\04_Students_Grades\bin\Debug\04_Students_Grades.pdb
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\08_Objects\04_Students_Grades\obj\Debug\04_Students_Grades.csprojResolveAssemblyReference.cache
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\08_Objects\04_Students_Grades\obj\Debug\04_Students_Grades.exe
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\08_Objects\04_Students_Grades\obj\Debug\04_Students_Grades.pdb

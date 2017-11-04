@@ -1,0 +1,5 @@
+c:\Users\kokosharnika\documents\visual studio 2017\Projects\09_Files\04_Max_Sequence_of_equal_elements\bin\Debug\04_Max_Sequence_of_equal_elements.exe.config
+c:\Users\kokosharnika\documents\visual studio 2017\Projects\09_Files\04_Max_Sequence_of_equal_elements\bin\Debug\04_Max_Sequence_of_equal_elements.exe
+c:\Users\kokosharnika\documents\visual studio 2017\Projects\09_Files\04_Max_Sequence_of_equal_elements\bin\Debug\04_Max_Sequence_of_equal_elements.pdb
+c:\Users\kokosharnika\documents\visual studio 2017\Projects\09_Files\04_Max_Sequence_of_equal_elements\obj\Debug\04_Max_Sequence_of_equal_elements.exe
+c:\Users\kokosharnika\documents\visual studio 2017\Projects\09_Files\04_Max_Sequence_of_equal_elements\obj\Debug\04_Max_Sequence_of_equal_elements.pdb

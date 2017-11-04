@@ -1,0 +1,6 @@
+C:\Users\Kokosharnika\Documents\Visual Studio 2017\Projects\06_Lists\01_Max_Sequence_of_Equal_Elements\obj\Debug\01_Max_Sequence_of_Equal_Elements.csprojResolveAssemblyReference.cache
+C:\Users\Kokosharnika\Documents\Visual Studio 2017\Projects\06_Lists\01_Max_Sequence_of_Equal_Elements\bin\Debug\01_Max_Sequence_of_Equal_Elements.exe.config
+C:\Users\Kokosharnika\Documents\Visual Studio 2017\Projects\06_Lists\01_Max_Sequence_of_Equal_Elements\bin\Debug\01_Max_Sequence_of_Equal_Elements.exe
+C:\Users\Kokosharnika\Documents\Visual Studio 2017\Projects\06_Lists\01_Max_Sequence_of_Equal_Elements\bin\Debug\01_Max_Sequence_of_Equal_Elements.pdb
+C:\Users\Kokosharnika\Documents\Visual Studio 2017\Projects\06_Lists\01_Max_Sequence_of_Equal_Elements\obj\Debug\01_Max_Sequence_of_Equal_Elements.exe
+C:\Users\Kokosharnika\Documents\Visual Studio 2017\Projects\06_Lists\01_Max_Sequence_of_Equal_Elements\obj\Debug\01_Max_Sequence_of_Equal_Elements.pdb

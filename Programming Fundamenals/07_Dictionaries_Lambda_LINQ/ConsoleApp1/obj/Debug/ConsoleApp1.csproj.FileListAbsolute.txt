@@ -1,0 +1,5 @@
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\07_Dictionaries_Lambda_LINQ\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\07_Dictionaries_Lambda_LINQ\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\07_Dictionaries_Lambda_LINQ\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\07_Dictionaries_Lambda_LINQ\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\07_Dictionaries_Lambda_LINQ\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

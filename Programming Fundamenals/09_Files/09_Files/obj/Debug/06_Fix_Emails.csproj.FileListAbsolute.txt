@@ -1,0 +1,6 @@
+c:\users\kokosharnika\documents\visual studio 2017\Projects\09_Files\09_Files\obj\Debug\06_Fix_Emails.csprojResolveAssemblyReference.cache
+c:\users\kokosharnika\documents\visual studio 2017\Projects\09_Files\09_Files\bin\Debug\09_Files.exe.config
+c:\users\kokosharnika\documents\visual studio 2017\Projects\09_Files\09_Files\bin\Debug\09_Files.exe
+c:\users\kokosharnika\documents\visual studio 2017\Projects\09_Files\09_Files\bin\Debug\09_Files.pdb
+c:\users\kokosharnika\documents\visual studio 2017\Projects\09_Files\09_Files\obj\Debug\09_Files.exe
+c:\users\kokosharnika\documents\visual studio 2017\Projects\09_Files\09_Files\obj\Debug\09_Files.pdb

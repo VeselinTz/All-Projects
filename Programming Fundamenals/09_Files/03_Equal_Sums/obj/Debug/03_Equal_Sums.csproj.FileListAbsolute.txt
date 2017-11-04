@@ -1,0 +1,5 @@
+c:\Users\kokosharnika\documents\visual studio 2017\Projects\09_Files\03_Equal_Sums\bin\Debug\03_Equal_Sums.exe.config
+c:\Users\kokosharnika\documents\visual studio 2017\Projects\09_Files\03_Equal_Sums\bin\Debug\03_Equal_Sums.exe
+c:\Users\kokosharnika\documents\visual studio 2017\Projects\09_Files\03_Equal_Sums\bin\Debug\03_Equal_Sums.pdb
+c:\Users\kokosharnika\documents\visual studio 2017\Projects\09_Files\03_Equal_Sums\obj\Debug\03_Equal_Sums.exe
+c:\Users\kokosharnika\documents\visual studio 2017\Projects\09_Files\03_Equal_Sums\obj\Debug\03_Equal_Sums.pdb

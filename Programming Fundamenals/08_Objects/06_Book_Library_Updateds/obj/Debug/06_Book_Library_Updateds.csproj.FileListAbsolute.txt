@@ -1,0 +1,5 @@
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\08_Objects\06_Book_Library_Updateds\bin\Debug\06_Book_Library_Updateds.exe.config
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\08_Objects\06_Book_Library_Updateds\bin\Debug\06_Book_Library_Updateds.exe
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\08_Objects\06_Book_Library_Updateds\bin\Debug\06_Book_Library_Updateds.pdb
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\08_Objects\06_Book_Library_Updateds\obj\Debug\06_Book_Library_Updateds.exe
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\08_Objects\06_Book_Library_Updateds\obj\Debug\06_Book_Library_Updateds.pdb

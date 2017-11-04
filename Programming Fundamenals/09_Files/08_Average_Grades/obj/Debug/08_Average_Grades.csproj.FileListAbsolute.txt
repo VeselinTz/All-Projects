@@ -1,0 +1,5 @@
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\09_Files\08_Average_Grades\bin\Debug\08_Average_Grades.exe.config
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\09_Files\08_Average_Grades\bin\Debug\08_Average_Grades.exe
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\09_Files\08_Average_Grades\bin\Debug\08_Average_Grades.pdb
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\09_Files\08_Average_Grades\obj\Debug\08_Average_Grades.exe
+C:\Users\Kokosharnika\documents\visual studio 2017\Projects\09_Files\08_Average_Grades\obj\Debug\08_Average_Grades.pdb
